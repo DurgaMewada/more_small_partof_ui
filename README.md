@@ -1,4 +1,13 @@
-# more_small_partof_ui
+# More Project
+
+<p align="center">
+   <img src = "https://github.com/DurgaMewada/more_small_partof_ui/assets/149373536/fc7df768-3cba-4e3c-90c6-4820b554be0b" width=22% height=35% >
+   <img src = "https://github.com/DurgaMewada/more_small_partof_ui/assets/149373536/63b361d0-85d4-45bc-81a0-568fb441502c" width=22% height=35% >
+  <img src = "https://github.com/DurgaMewada/more_small_partof_ui/assets/149373536/d537e247-df83-4ed8-829c-8c5295eb55d4" width=22% height=35% >
+  <br>
+</br>
+ </p>
+[Screen_recording_20240412_233504.webm](https://github.com/DurgaMewada/more_small_partof_ui/assets/149373536/9317c669-59c2-4eda-849e-4589bf70ea06)
 
 A new Flutter project.
 
